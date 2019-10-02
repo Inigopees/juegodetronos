@@ -4,3 +4,6 @@ reino 3
 reino 1.2
 reino 1.3
 reino 1.4
+reino 2.1
+reino 2.2
+reino 2.3
